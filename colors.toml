@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Palette sampled from the 2560x1600 "Heritage Revisited" (2001) wallpaper
+# by Nike & Tola Wewe - bright terracotta, ocher gold, cream, ink black,
+# and slate-cobalt pen-and-ink patchwork
+
+accent = "#d04227"
+selection = "#552a1a"
+muted = "#a18a6a"
+
+background = "#1a120d"
+dark_background = "#140d09"
+darker_background = "#0f0a07"
+lighter_background = "#2a1c13"
+
+foreground = "#efd9a4"
+dark_foreground = "#96805e"
+light_foreground = "#dcc9a0"
+bright_foreground = "#f7e6b6"
+
+red = "#d84a2b"
+yellow = "#e3b558"
+orange = "#d97038"
+green = "#b8ba6e"
+cyan = "#8fabcd"
+blue = "#7189c9"
+magenta = "#d18b9c"
+brown = "#a8722f"
+
+bright_red = "#e8603f"
+bright_yellow = "#eec873"
+bright_green = "#c6c880"
+bright_cyan = "#a5c0dd"
+bright_blue = "#8799e0"
+bright_magenta = "#df9dae"
